@@ -23,13 +23,13 @@ repository               : "academicpages/academicpages.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  name             : "Tang Xiaoli"
   pronouns         : # example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
-  uri              : # URL
-  email            : "none@example.org" 
+  location         : "Singapore"
+  employer         : "Nanyang Technologival University"
+  # uri              : # URL
+  email            : "xiaoli001@e.ntu.edu.sg" 
 
   # Academic websites
   academia         : # URL
