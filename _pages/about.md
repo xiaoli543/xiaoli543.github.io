@@ -75,77 +75,109 @@ Publications
    
     **Xiaoli Tang** & Han Yu
 10. [**Competitive-cooperative multi-agent reinforcement learning for auction-based federated learning**](https://www.ijcai.org/proceedings/2023/474)
-   
-   _Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23)_
+
+    _Proceedings of the 32nd International Joint Conference on Artificial Intelligence (IJCAI'23)_
    
     **Xiaoli Tang** & Han Yu
     
-11. [**Utility-maximizing bidding strategy for data consumers in auction-based federated learning**](https://ieeexplore.ieee.org/iel7/10219544/10219545/10219696.pdf)
-   
-   _Proceedings of the 2023 IEEE International Conference on Multimedia and Expo (ICME'23)_
+12. [**Utility-maximizing bidding strategy for data consumers in auction-based federated learning**](https://ieeexplore.ieee.org/iel7/10219544/10219545/10219696.pdf)
+
+    _Proceedings of the 2023 IEEE International Conference on Multimedia and Expo (ICME'23)_
    
     **Xiaoli Tang** & Han Yu
 12. [**AKUPM: Attention-enhanced knowledge-aware user preference model for recommendation**](https://dl.acm.org/doi/10.1145/3292500.3330705)
    
-   _Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'19)_
+    _Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'19)_
    
     **Xiaoli Tang**, Tengyun Wang, Haizhi Yang & Hengjie Song
 13. **RLCP: A Reinforcement Learning-based Copyright Protection Method for Text-to-Image Diffusion Model recommendation**
    
-   _Proceedings of the 2025 IEEE International Conference on Multimedia and Expo (ICME'25)_
+    _Proceedings of the 2025 IEEE International Conference on Multimedia and Expo (ICME'25)_
    
     Zhuan Shi, Jing Yan, **Xiaoli Tang**, Lingjuan Lyu & Boi Faltings
 14. [**FedCal: Achieving Local and Global Calibration in Federated Learning via Aggregated Parameterized Scaler**](https://proceedings.mlr.press/v235/peng24g.html)
    
-   _Proceedings of the 41st International Conference on Machine Learning (ICML'24)_
+    _Proceedings of the 41st International Conference on Machine Learning (ICML'24)_
    
     Hongyi Peng, Han Yu, **Xiaoli Tang** & Xiaoxiao Li
 15. [**Free-Rider and Conflict Aware Collaboration Formation for Cross-Silo Federated Learning**](https://openreview.net/pdf?id=MwJo3zuiTm)
    
-   _Proceedings of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)_
+    _Proceedings of the 38th Annual Conference on Neural Information Processing Systems (NeurIPS'24)_
    
     Mengmeng Chen, Xiaohu Wu, **Xiaoli Tang**, Tiantian He, Yew-Soon Ong, Qiqi Liu, Qicheng Lao & Han Yu
 16. [**FedRMS: Privacy-Preserving Federated Knowledge Graph Embedding through Randomization**](https://ieeexplore.ieee.org/document/10688354/)
    
-   _Proceedings of the 2024 IEEE International Conference on Multimedia and Expo (ICME'24)_
+    _Proceedings of the 2024 IEEE International Conference on Multimedia and Expo (ICME'24)_
    
     Qianyu Li, **Xiaoli Tang**, Siyao Zhou, Han Yu, Hengjie Song, Lizhen Cui & Xiaoxiao Li
 17. [**Modeling Time Decay Effect in Temporal Knowledge Graphs via Multivariate Hawkes Process**](https://ieeexplore.ieee.org/document/10649972)
    
-   _Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN'24)_
+    _Proceedings of the 2024 International Joint Conference on Neural Networks (IJCNN'24)_
    
     Qianyu Li, Jiebin Chen, **Xiaoli Tang**, Han Yu & Hengjie Song
 18. [**IBCA: An Intelligent Platform for Social Insurance Benefit Qualification Status Assessment**](https://ojs.aaai.org/index.php/AAAI/article/view/30316)
    
-   _Proceedings of the 36th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-24)_
+    _Proceedings of the 36th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-24)_
    
     Yuliang Shi, Lin Cheng, Cheng Jiang, Hui Zhang, Guifeng Li, **Xiaoli Tang**, Han Yu, Zhiqi Shen & Cyril Leung
 19. [**Multi-task learning for bias-free joint ctr prediction and market price modeling in online advertising**](https://dl.acm.org/doi/abs/10.1145/3459637.3482373)
    
-   _Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM’21)_
+    _Proceedings of the 30th ACM International Conference on Information and Knowledge Management (CIKM’21)_
    
     Haizhi Yang, Tengyun Wang, **Xiaoli Tang**, Qianyu Li, Yueyue Shi, Siyu Jiang, Han Yu & Hengjie Song
 
 **Journal**
 
-1. [**AKUPM: Attention-enhanced knowledge-aware user preference model for recommendation**](https://dl.acm.org/doi/10.1145/3292500.3330705)
+1. [**Towards Trustworthy AI-Empowered Real-Time Bidding for Online Advertisement Auctioning**](https://dl.acm.org/doi/10.1145/3701741)
    
-   _Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'19)_
+   _ACM Computing Surveys 2025_ (IF: 23.8)
    
-    **Xiaoli Tang**, Tengyun Wang, Haizhi Yang & Hengjie Song
-2. [**AKUPM: Attention-enhanced knowledge-aware user preference model for recommendation**](https://dl.acm.org/doi/10.1145/3292500.3330705)
+    **Xiaoli Tang** & Han Yu
+2. [**A Cost-Aware Utility-Maximizing Bidding Strategy for Auction-based Federated Learning**](https://ieeexplore.ieee.org/document/10745777)
    
-   _Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'19)_
+   _IEEE Transactions on Neural Networks and Learning Systems 2024_ (IF: 10.2)
    
-    **Xiaoli Tang**, Tengyun Wang, Haizhi Yang & Hengjie Song
-3. [**AKUPM: Attention-enhanced knowledge-aware user preference model for recommendation**](https://dl.acm.org/doi/10.1145/3292500.3330705)
+    **Xiaoli Tang** & Han Yu
+3. [**Fairness-Aware Reverse Auction-based Federated Learning**](https://ieeexplore.ieee.org/document/10793084)
    
-   _Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'19)_
+   _IEEE Internet of Things Journal 2024_ (IF: 10.6)
    
-    **Xiaoli Tang**, Tengyun Wang, Haizhi Yang & Hengjie Song
-4. [**AKUPM: Attention-enhanced knowledge-aware user preference model for recommendation**](https://dl.acm.org/doi/10.1145/3292500.3330705)
+    **Xiaoli Tang** & Han Yu
+4. [**Efficient Large-Scale Personalizable Bidding for Multi-Agent Auction-based Federated Learning**](https://ieeexplore.ieee.org/document/10522471)
    
-   _Proceedings of the 26th ACM SIGKDD International Conference on Knowledge Discovery & Data Mining (KDD'19)_
+   _IEEE Internet of Things Journal 2024_ (IF: 10.6)
    
-    **Xiaoli Tang**, Tengyun Wang, Haizhi Yang & Hengjie Song
+    **Xiaoli Tang** & Han Yu
+5. **Ten Challenging Problems in Federated Foundation Models**
+   
+   _IEEE Transactions on Knowledge and Data Engineering 2025_ (IF: 8.9)
+   
+    Tao Fan, Hanlin Gu, Xuemei Cao, Chee Seng Chan, Qian Chen, Yiqiang Chen, Yihui Feng, Yang Gu, Jiaxiang Geng, Bing Luo, Shuoling Liu, Win Kent Ong, Chao Ren, Jiaqi Shao, Chuan Sun, **Xiaoli Tang**, Hong Xi Tae, Yongxin Tong, Shuyue Wei, Fan Wu, Wei Xi, Mingcong Xu, He Yang, Xin Yang, Jiangpeng Yan, Hao Yu, Han Yu, Teng Zhang, Yifei Zhang, Xiaojin Zhang, Zhenzhe Zheng, Lixin Fan & Qiang Yang
+6. **Advances and Open Challenges in Federated Foundation Models**
+   
+   _IEEE Communications Surveys and Tutorials 2025_ (IF: 34.4)
+   
+    Chao Ren, Han Yu, Hongyi Peng, **Xiaoli Tang**, Bo Zhao, Liping Yi, Alysa Ziying Tan, Yulan Gao, Anran Li, Xiaoxiao Li, Zengxiang Li & Qiang Yang
+7. [**MuLAN: Multi-level attention-enhanced matching network for few-shot knowledge graph completion**](https://www.sciencedirect.com/science/article/abs/pii/S0893608024001461)
+   
+   _Neural Networks 2024_ (IF: 7.8)
+   
+    Qianyu Li, Bozheng Feng, **Xiaoli Tang**, Han Yu & Hengjie Song
+8. [**Capsule neural tensor networks with multi-aspect information for Few-shot Knowledge Graph Completion**](https://www.sciencedirect.com/science/article/abs/pii/S0893608023002277)
+   
+   _Neural Networks 2023_ (IF: 7.8)
+   
+    Qianyu Li, Jiale Yao, **Xiaoli Tang**, Han Yu, Siyu Jiang, Haizhi Yang & Hengjie Song
+9. [**Kaplan–Meier Markov network: Learning the distribution of market price by censored data in online advertising**](https://www.sciencedirect.com/science/article/pii/S0950705122006219)
+   
+   _Knowledge-Based Systems 2022_ (IF: 8.8)
+   
+   Tengyun Wang, Haizhi Yang, Siyu Jiang, Yueyue Shi, Qianyu Li, **Xiaoli Tang**, Han Yu & Hengjie Song
+10. [**Dynamically optimizing display advertising profits under diverse budget settings**](https://ieeexplore.ieee.org/document/9424410)
+   
+    _IEEE Transactions on Knowledge and Data Engineering 2021_ (IF: 8.9)
+   
+    Haizhi Yang, Tengyun Wang, **Xiaoli Tang**, Han Yu, Fei Liu & Hengjie Song
+
+
    
