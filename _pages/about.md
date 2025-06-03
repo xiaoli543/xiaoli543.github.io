@@ -78,7 +78,7 @@ Publications
    
    _Proceedings of the 36th Annual Conference on Innovative Applications of Artificial Intelligence (IAAI-24)_
    
-   Hao Sun*, **Xiaoli Tang***, Chengyi Yang*, Zhenpeng Yu, Xiuli Wang, Qijie Ding, Zengxiang Li & Han Yu
+   Hao Sun*, **Xiaoli Tang\***, Chengyi Yang*, Zhenpeng Yu, Xiuli Wang, Qijie Ding, Zengxiang Li & Han Yu
 8. [**Agent-oriented Joint Decision Support for Data Owners in Auction-based Federated Learning**](https://ieeexplore.ieee.org/iel8/10685847/10687354/10687797.pdf)
    
    _Proceedings of the 2024 IEEE International Conference on Multimedia and Expo (ICME'24)_
