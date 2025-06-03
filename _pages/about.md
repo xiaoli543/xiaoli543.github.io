@@ -11,8 +11,8 @@ I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Da
 
 Education
 ======
-+ 2021 – Present: Ph.D., Nanyang Technological University, Singapore
-+ 2017 – 2020: M.Sc., South China University of Technology, Guangzhou, China
++ 2021 – Present: Ph.D., Nanyang Technological University, Singapore [Supervisor: Prof. Yu Han]
++ 2017 – 2020: M.Sc., South China University of Technology, Guangzhou, China [Supervisor: Prof. Song Hengjie]
 + 2013 – 2017: B.Sc., South China University of Technology, Guangzhou, China
 
 Awards
