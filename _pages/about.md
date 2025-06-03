@@ -219,6 +219,7 @@ Services
 + Conference on Neural Information Processing Systems (NeurIPS), 2025
 + International Conference on Machine Learning (ICML), 2025
 + International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025
++ Annual AAAI Conference on Artificial Intelligences, 2025
 + International Joint Conferences on Artificial Intelligence (IJCAI), 2025
 + IEEE International Conference on Multimedia & Expo (ICME), 2025
 + International Conference on Machine Learning (ICML), 2024
