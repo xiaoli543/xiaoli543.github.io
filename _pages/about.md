@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). My Ph.D. supervisor is [Prof. Yu Han](https://sites.google.com/site/hanyushomepage/home), and my Master's supervisor is Prof. Song Hengjie from School of Engineering, South China University of Technology. 
+I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). My Ph.D. supervisor is [Prof. Yu Han](https://sites.google.com/site/hanyushomepage/home), and my Master's supervisor is Prof. Song Hengjie from School of Software Engineering, South China University of Technology. 
 
 Research Interests
 ======
