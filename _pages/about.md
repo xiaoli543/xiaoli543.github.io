@@ -1,13 +1,21 @@
 ---
 permalink: /
-title: "Biography"
+title: "About Me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). My Ph.D. supervisor is [Prof. Yu Han](https://sites.google.com/site/hanyushomepage/home), and my Master's supervisor is Prof. Song Hengjie from School of Engineering, South China University of Technology. My research interests include federated learning, recommender systems, graph neural networks, and related areas.
+I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). My Ph.D. supervisor is [Prof. Yu Han](https://sites.google.com/site/hanyushomepage/home), and my Master's supervisor is Prof. Song Hengjie from School of Engineering, South China University of Technology. 
+
+Research Interests
+======
++ **Federated Learning**: auction-based federated leanring, personalised federated leanring
++ **Recommender System**: sequential recommendation
++ **Graph Representation Learning**: graph classification, out-of-distribution generalization, graph sequence modeling 
+  
+While my graduate and doctoral research primarily focused on the above areas, I have recently developed a strong interest in **Biomedical AI**. I hope to contribute to real-world impact across these domains. I am always open to collaboration and dialogue. If you're interested in working together, feel free to reach out via email.
 
 Education
 ======
