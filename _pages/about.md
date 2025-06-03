@@ -208,6 +208,9 @@ Experience
 + 2022-2023 S2: School of Computer Science and Engineering, Nanyang Technological University
   
   **_Introduction to Databases_**, 78 Undergraduates
++ 2024-Present: College of Computing and Data Science, Nanyang Technological University
+
+  **_Undergraduate Final Year Project_**
 
 **Academic Community Experience**
 + **Local Arrangement Co-Chairs**, International Workshop on Federated Foundation Models for the Web 2024 (FL@FM-TheWebConf'24)
