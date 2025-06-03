@@ -11,11 +11,18 @@ I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Da
 
 Education
 ======
-+ 2021 – Present: Ph.D., Nanyang Technological University, Singapore [Supervisor: Prof. Yu Han]
-+ 2017 – 2020: M.Sc., South China University of Technology, Guangzhou, China [Supervisor: Prof. Song Hengjie]
-+ 2013 – 2017: B.Sc., South China University of Technology, Guangzhou, China
++ 2021 – Present: **Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore
+  
+  Supervisor: Prof. Yu Han ⭐ **GPA: 4.25/5**
++ 2017 – 2020: **M.Sc.**, School of Engineering, South China University of Technology, Guangzhou, China
 
-Awards
+  Supervisor: Prof. Song Hengjie ⭐ **GPA: 3.83/4 (2/30)**
++ 2013 – 2017: **B.Sc.**, School of Engineering, South China University of Technology, Guangzhou, China
+  
+  ⭐ **GPA: 3.86/4 (1/253)**
+  
+
+Awards & Honors
 ======
 + 2024: **Innovative Application of AI Award**, IAAI 2024-“HiFi-Gas: Hierarchical Federated Learning Incentive Mechanism Enhanced Gas Usage Estimation”
 + 2024: **Innovative Application of AI Award**, IAAI 2024-“IBCA: An Intelligent Platform for Social Insurance Benefit Qualification Status Assessment”
@@ -28,7 +35,7 @@ Awards
 
 Publications
 ======
-**Conference** (* equal contribution)
+**Conference** (* indicates equal contribution)
 1. **Multi-Session Budget Optimization for Forward Auction-based Federated Learning**
    
    _Proceedings of the 42nd International Conference on Machine Learning (ICML'25)_
@@ -179,5 +186,55 @@ Publications
    
     Haizhi Yang, Tengyun Wang, **Xiaoli Tang**, Han Yu, Fei Liu & Hengjie Song
 
+Experience
+======
+**Teaching Assistant Experience**
++ 2018-2019 S1: School of Software Engineering, South China University of Technology
+  
+  **_Distributed Intelligent Software_**, 123 Masters
 
++ 2018-2019 S2: School of Software Engineering, South China University of Technology
+  
+  **_Artificial intelligence_**, 131 Undergraduates
++ 2019-2020 S1: School of Software Engineering, South China University of Technology
+  
+  **_Distributed Intelligent Software_**, 124 Masters
++ 2019-2020 S2: School of Software Engineering, South China University of Technology
+  
+  **_Artificial intelligence_**, 127 Undergraduates
++ 2022-2023 S1: School of Computer Science and Engineering, Nanyang Technological University
+  
+  **_Algorithm Design & Analysis_**, 100 Undergraduates
++ 2022-2023 S2: School of Computer Science and Engineering, Nanyang Technological University
+  
+  **_Introduction to Databases_**, 78 Undergraduates
+
+**Academic Community Experience**
++ **Local Arrangement Co-Chairs**, International Workshop on Federated Foundation Models for the Web 2024 (FL@FM-TheWebConf'24)
+
+Services
+======
+
+**Conference Reviewers**
++ Conference on Neural Information Processing Systems (NeurIPS), 2025
++ International Conference on Machine Learning (ICML), 2025
++ International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2025
++ International Joint Conferences on Artificial Intelligence (IJCAI), 2025
++ IEEE International Conference on Multimedia & Expo (ICME), 2025
++ International Conference on Machine Learning (ICML), 2024
++ International Joint Conferences on Artificial Intelligence (IJCAI), 2024
++ Annual AAAI Conference on Artificial Intelligence (AAAI), 2024
++ IEEE International Conference on Multimedia & Expo (ICME), 2024
++ International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2024
++ International Joint Conferences on Artificial Intelligence (IJCAI), 2023
++ Annual AAAI Conference on Artificial Intelligence (AAAI), 2023
++ International Conference on Autonomous Agents and Multiagent Systems (AAMAS), 2023
++ IEEE International Conference on Multimedia & Expo (ICME), 2023
+
+  
+**Journal Reviewers**
++ IEEE Transactions on Neural Networks and Learning Systems (TNNLS), 2022-Present
++ IEEE Transactions on Artificial Intelligence (TAI), 2024-Present
++ IEEE Transactions on Big Data (TBD), 2022-Present
++ IEEE Transactions on Cognitive and Developmental Systems, 2025-Present
    
