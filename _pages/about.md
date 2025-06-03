@@ -22,10 +22,10 @@ Education
 + 2021 – Present: **Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore
   
   Supervisor: Prof. Yu Han ⭐ **GPA: 4.25/5**
-+ 2017 – 2020: **M.Sc.**, School of Engineering, South China University of Technology, Guangzhou, China
++ 2017 – 2020: **M.Sc.**, School of Software Engineering, South China University of Technology, Guangzhou, China
 
   Supervisor: Prof. Song Hengjie ⭐ **GPA: 3.83/4 (2/30)**
-+ 2013 – 2017: **B.Sc.**, School of Engineering, South China University of Technology, Guangzhou, China
++ 2013 – 2017: **B.Sc.**, School of Software Engineering, South China University of Technology, Guangzhou, China
   
   ⭐ **GPA: 3.86/4 (1/253)**
   
