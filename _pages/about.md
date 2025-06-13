@@ -12,10 +12,10 @@ I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Da
 Research Interests
 ======
 + **Federated Learning**: auction-based federated leanring, personalised federated leanring
-+ **Recommender System**: sequential recommendation
-+ **Graph Representation Learning**: graph classification, out-of-distribution generalization, graph sequence modeling 
+<!--+ **Recommender System**: sequential recommendation-->
+<!--+ **Graph Representation Learning**: graph classification, out-of-distribution generalization, graph sequence modeling -->
   
-While my graduate and doctoral research primarily focused on the above areas, I have recently developed a strong interest in **Biomedical AI**. I hope to contribute to real-world impact across these domains. I am always open to collaboration and dialogue. If you're interested in working together, feel free to reach out via email.
+<!--While my graduate and doctoral research primarily focused on the above areas, I have recently developed a strong interest in **Biomedical AI**. I hope to contribute to real-world impact across these domains. I am always open to collaboration and dialogue. If you're interested in working together, feel free to reach out via email.-->
 
 Education
 ======
