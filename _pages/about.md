@@ -7,6 +7,10 @@ redirect_from:
   - /about.html
 ---
 
+<!--TI am currently a Research Associate at the College of Computing and Data Science, Nanyang Technological University (NTU), Singapore, under the supervision of Associate Professor Han Yu. Her research lies at the intersection of federated learning, game theory, and auction mechanisms, with a particular emphasis on auction-based federated learning (AFL) and personalized federated learning (PFL). She has published extensively in top-tier venues including ICML, AAAI, IJCAI, CSUR, TNNLS, and the IEEE Internet of Things Journal. Her work focuses on designing intelligent, incentive-compatible, and privacy-preserving collaborative learning systems for real-world deployment in multi-agent environments. 
+She has pioneered the market-based AFL frameworks that formalize incentive alignment among data owners, data consumers, and platform auctioneers. Her research has also led to the development and deployment of the HiFi-Gas system in collaboration with ENN Group, marking the first successful application of a hierarchical FL incentive mechanism in the energy sector.
+Tang’s contributions have been recognized with multiple accolades, including two Innovative Application Awards (IAAI) at AAAI 2024 and the Best Poster Runner-Up Award at the Singapore ACM SIGKDD Symposium 2023. She has also contributed to community service as a reviewer for leading journals (e.g., TNNLS, TAI) and conferences (e.g., AAAI, IJCAI, ICML, NeurIPS, WWW). Her long-term research vision is to advance scalable, trustworthy, and economically sustainable federated intelligence that bridges theoretical innovation and cross-domain deployment, particularly in high-stakes sectors such as healthcare, finance, and public utilities. -->
+
 I am Tang Xiaoli, a fourth-year Ph.D. student at the College of Computing and Data Science (CCDS), Nanyang Technological University (NTU). My Ph.D. supervisor is [Prof. Yu Han](https://sites.google.com/site/hanyushomepage/home), and my Master's supervisor is Prof. Song Hengjie from School of Software Engineering, South China University of Technology. 
 
 Research Interests
@@ -220,8 +224,8 @@ Experience
 
   **_Undergraduate Final Year Project_**
 
-**Academic Community Experience**
-+ **Local Arrangement Co-Chairs**, International Workshop on Federated Foundation Models for the Web 2024 (FL@FM-TheWebConf'24)
+<!--**Academic Community Experience**-->
+<!--+ **Local Arrangement Co-Chairs**, International Workshop on Federated Foundation Models for the Web 2024 (FL@FM-TheWebConf'24)-->
 
 Services
 ======
@@ -249,4 +253,6 @@ Services
 + IEEE Transactions on Artificial Intelligence (TAI), 2024-Present
 + IEEE Transactions on Big Data (TBD), 2022-Present
 + IEEE Transactions on Cognitive and Developmental Systems, 2025-Present
-   
+
+**Worshop Co-Chairs**
++ **Local Arrangement Co-Chairs**, International Workshop on Federated Foundation Models for the Web 2024 (FL@FM-TheWebConf'24)
