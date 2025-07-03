@@ -23,12 +23,8 @@ Research Interests
 
 Education
 ======
-+ 2021 – Present: **Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore
-  
-  Supervisor: Prof. Yu Han 
++ 2021 – Present: **Ph.D.**, College of Computing and Data Science, Nanyang Technological University, Singapore 
 + 2017 – 2020: **M.Sc.**, School of Software Engineering, South China University of Technology, Guangzhou, China
-
-  Supervisor: Prof. Song Hengjie 
 + 2013 – 2017: **B.Sc.**, School of Software Engineering, South China University of Technology, Guangzhou, China
    
 
